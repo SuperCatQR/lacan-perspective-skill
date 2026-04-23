@@ -1,5 +1,6 @@
 # lacan-perspective
 
+拉康.skill generate by kimi-2.6 
 让雅克·拉康（1901-1981）成为你的思维顾问。
 
 ## 是什么
